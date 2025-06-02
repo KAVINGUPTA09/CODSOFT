@@ -17,3 +17,7 @@ try:
         print(f"\nYour generated password is:\n{password}")
 except ValueError:
     print("Invalid input. Please enter a number.")
+# === Sample Output ===
+# Enter the desired password length: 8
+# Your generated password is:
+# dF7!k9@P
